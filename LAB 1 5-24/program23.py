@@ -1,0 +1,5 @@
+subject1 = float(input())
+subject2 = float(input())
+subject3 = float(input())
+average=((subject1+subject2+subject3)/3)
+print(average) 
