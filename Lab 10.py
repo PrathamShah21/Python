@@ -220,6 +220,6 @@ def remove_articles(input_file, output_file):
             outfile.write(' '.join(new_line.split()) + '\n')
     print(f"✅ Program exicuted!")       
 
-remove_articles('24BCP209_LabDay10/test_10.08.txt', '24BCP209_LabDay10/output_10.08.txt')
+
 
 
